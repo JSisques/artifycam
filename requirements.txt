@@ -1,0 +1,7 @@
+opencv-python
+python-dotenv
+tensorflow
+pillow
+matplotlib
+numpy
+face_recognition 
